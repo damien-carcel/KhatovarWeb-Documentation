@@ -18,5 +18,5 @@ que sur le contenu.
 
 Pour la page d'accueil, vous disposez d'une plus grande
 souplesse de mise en forme, et avez accès à un véritable
-éditeur façon traitement de texte, alors que les autres pages ne consistent
+traitement de texte, alors que les autres pages ne consistent
 qu'en une succession de cases de texte brut à remplir.

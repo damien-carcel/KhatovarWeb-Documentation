@@ -1,4 +1,4 @@
-Gestion des pages d’accueil
+Gestion des pages d'accueil
 ===========================
 
 Ajouter/supprimer une page d'accueil
@@ -83,7 +83,7 @@ sont seulement accompagnées d'un numéro les identifiant.
 
 Pour la page d'accueil en revanche, vous trouverez le format de la photo, un
 lien pour changer ce format (pour plus de détail, je vous laisse relire la partie
-« :ref:`Téléversement de photos pour la page d’accueil <upload-photo-homepage>` »
+« :ref:`Téléversement de photos pour la page d'accueil <upload-photo-homepage>` »
 et un code (capture d'écran :ref:`ci-dessous <photo-panel-home>`), unique pour
 chaque photo. C'est ce code (crochets inclus) que vous devrez insérer dans le
 texte. En effet, pour afficher une photo sur la page d'accueil, l'application

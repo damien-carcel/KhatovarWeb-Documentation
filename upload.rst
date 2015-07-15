@@ -142,7 +142,7 @@ Il est possible de changer cette taille directement depuis le panneau latéral
 (uniquement si vous visualisez/éditez une page d'accueil, sans quoi le panneau
 affichera les photos de la page sur laquelle vous vous trouvez). Vous trouverez
 en effet sous chaque photo, outre le code destiné à l'insertion des photos
-(voir la section :doc:`Édition des pages d’accueil <edit-home>` pour plus de
+(voir la section :doc:`Édition des pages d'accueil <edit-home>` pour plus de
 détails), le format de l'image, et un lien renvoyant directement sur la page
 permettant d'éditer les informations de la photo (:ref:`capture d'écran ci-dessous <photo-home-edit>`).
 
